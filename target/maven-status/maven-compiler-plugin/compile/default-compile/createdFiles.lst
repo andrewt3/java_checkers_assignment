@@ -1,0 +1,10 @@
+org/example/checkers/Move.class
+org/example/checkers/Constants.class
+org/example/checkers/player/Player.class
+org/example/checkers/io/IOHandler.class
+org/example/checkers/Main.class
+org/example/checkers/player/ComputerPlayer.class
+org/example/checkers/io/ConsoleIOHandler.class
+org/example/checkers/Board.class
+org/example/checkers/Checkers.class
+org/example/checkers/player/HumanPlayer.class
